@@ -1,0 +1,6 @@
+.env
+logs/
+minio/data/
+minio/minio.license
+__pycache__/
+*.pyc
